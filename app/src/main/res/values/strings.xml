@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RP Report Fault</string>
+    <string name="reportExample">E.g. The door lever to the staircase is broken.</string>
+    <string name="locationExample">E.g. Block E6 Level 3</string>
+</resources>
